@@ -1,1 +1,5 @@
-this is the abstract
+To start off GitHub is a fantastic SVC System that allows users to collaborate with each other via repositories. In this report we will discuss the many benefits of this system and some disadvantages, why we like it and why we don’t like it.
+We will explore the features that are presented by GitHub and explain them in terms of how we would use them ourselves in our own working environments and also why we wouldn’t need to use some of them.
+We will also go into detail about how we would actually use GitHub as a system itself and how it will aid in the completion of a large software project.
+
+Carson Boyd
