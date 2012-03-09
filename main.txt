@@ -1,1 +1,45 @@
-this is the main
+Advantages of Github
+Github provides an online repository for its users
+There are several advantages for using github. First of all github provides online repository functionality which is one of the key feature of any software version control system. Members of the group can easily access to all the files uploaded by any other group members. 
+Interface is excellent and can view different type of files
+The interface provided by git hub is excellent and we will be able to view different type of files. 
+User access for premium versions
+A basic account will allow you to utilize most of the functions of github, but you can further enhance it by paying a certain amount of fee. After becoming a premium member, you can choose your repository visibility to other users of github. For example now you can have multiple repositories and private or public repositories depending on your choice. 
+
+Wiki pages are available for each project
+
+
+Both private and public repositories
+
+
+Businesses can form teams within the website and develop over their own repository
+
+
+Incorporates project management into the software
+By using github, project management are incorporated into the software
+Limitations of Github
+
+
+-- Teck We Kee
+
+
+
+GitHub is an application to share code and is used by more than a million people. To use GitHub people can create a free account or a paid one at the website: http://github.com/. With a free account users cannot control who views or works on their code, but with a paid account users can can have private repositories and collaborators. The paid account types again vary and allocate a number repositories and collaborators depending on how much the user pays. The basic paid account type is for $7 per month and allows 1 collaborator to have 5 repositories while an account which costs $22 per month can have upto 20 repositories with 10 collaborators.
+
+With a paid account the collaborators can be assigned different access level which consist of read-only access, read-write access and admin-level access. According to his needs a user can also request a 'custom' account which can have as many repositories and collaborators as needed.
+
+Only teammates and collaborators can create and view issues on private repositories. Anyone may create and view issues on public repositories. 
+
+GitHub offers features which include:
+-The Administrators can Assign issues to a particular collaborator or a team, so everyone knows who is working on what. 
+-Coloured Labels which can be assigned to issues depending on their type or criticality.  
+-Milestones which can be set with date.
+-A 'quicksearch' and an advanced search which allows users to search for any issues, descriptions, comments or which issue has been assigned to who.  
+-A unique Code Review which allows all the collaborators to have discussion and review their code.
+
+Every code tends to have many branches and merges. GitHub offers an efficient way of reviewing these. A user can compare all the branches with a certain branch to review their progress. This also shows which branches have been most worked on recently. Also, if a user decides to merge two branches, the user can compare these two branches to find out what is unique to each of the branches and which parts will get changed when both these branches are merged. 
+
+GitHub provides a history for each of the files where users can view when and where the changes were made. GitHub also allows users to trace each change back to the collaborator who made it. This makes each collaborator take responsibility for his work.
+
+
+-- Suneet Saleel Kulkarni
