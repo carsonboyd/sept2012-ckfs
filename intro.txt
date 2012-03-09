@@ -1,1 +1,4 @@
-This is the intro
+Introduction
+Software version controls allow users to track and provide control over changes to files. Users who require a way to collaborate with other people on a project, usually other members of their “team”, will find this to be the most effective and efficient way to work together as they are able to work alongside multiple users on the same code base without the constant need to send files to each other. Instead, the files are stored within a server and the users can connect to that server to access and edit the files. Each file is stored with its version or “revision”, allowing users to revert to an older version of the file if an error has been made. For example, revision 1 contains the initial file(s). After every change, the number will increment by one, making the next revision “revision 2”, and so on.
+
+Fotios Lekkas
