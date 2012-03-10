@@ -1,1 +1,7 @@
-this is the conclusion
+The team has agreed that the system is acceptable for use in a large scale software project.
+We like the idea that there are project management features within the system enabling the team to start at the start and end up at the finish in a good amount of time. Starting up is free and only the one person will need to pay for the cost of a private repository or even a public one or a non-commercial project. 
+The github online interface is exactly what is needed and will aid a team in figuring out the basics of the project(providing a simple file tree view) and will aid later on in the commenting and fixing up of code that will be needed in order to complete the large software project.
+Many different file types can be viewed and accessed in the repository and will be highly useful when both source code and reports need to be completed at the same time.
+If information is lost physically and within the team, having a backup copy over the internet, stored in the github datacentres is exactly what will keep the team going and send them straight back on the path towards completing an objective, milestone or the final product.
+
+Carson Boyd
